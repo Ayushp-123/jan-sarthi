@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325236805162",
+    "project_id": "jan-sarthi-2f13c",
+    "storage_bucket": "jan-sarthi-2f13c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325236805162:android:0f3ae17eb8738c24937d53",
+        "android_client_info": {
+          "package_name": "com.example.jan_sarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNw4X_tSaxsAHZ_EpaPGMVC24DsdnfmF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
